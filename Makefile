@@ -3,12 +3,12 @@ CFLAGS =
 LIBS = 
 SRC_FILES = *.c
 
-all: tproxy_example
+all: tproxy
 
-tproxy_example: $(SRC_FILES)
+tproxy: $(SRC_FILES)
 	$(CC) $(CFLAGS) -o $@ $^ $(LIBS)
 
 clean:
-	rm -f tproxy_example *.o
+	rm -f tproxy *.o
 
 .PHONY: clean

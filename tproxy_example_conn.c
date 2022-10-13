@@ -1,5 +1,3 @@
-//Written by Kristian Evensen <kristian.evensen@gmail.com>
-
 #include <stdio.h>
 #include <stdint.h>
 #include <sys/types.h>

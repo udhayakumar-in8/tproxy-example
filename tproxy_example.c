@@ -1,4 +1,3 @@
-//Written by Kristian Evensen <kristian.evensen@gmail.com>
 
 #define _GNU_SOURCE
 #include <stdio.h>

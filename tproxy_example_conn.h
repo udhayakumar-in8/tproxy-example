@@ -1,4 +1,3 @@
-//Written by Kristian Evensen <kristian.evensen@gmail.com>
 
 #ifndef TPROXY_TEST_CONN_H
 #define TPROXY_TEST_CONN_H
